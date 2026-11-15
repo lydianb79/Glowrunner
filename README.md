@@ -9,6 +9,19 @@
   You're a glowing orb collecting sparks across 99 mazes while four sentinel drones hunt you down.
 </p>
 
+<p align="center">
+  <img src="docs/screenshots/title.png" alt="Glowrunner title screen over the level 1 maze">
+</p>
+
+## Screenshots
+
+| | |
+| --- | --- |
+| ![Chase camera following the orb through level 1 with the sentinels closing in](docs/screenshots/chase-camera.png) | ![After a power core: the sentinels turn blue and can be rammed](docs/screenshots/power-core.png) |
+| **Chase camera**: the sentinels close in on level 1 | **Power core**: disrupted sentinels turn blue and can be rammed |
+| ![Level 12 with magenta neon walls](docs/screenshots/level-12.png) | ![Overview camera on level 37 with gold neon walls](docs/screenshots/level-37.png) |
+| **Level 12**: every level has its own maze and color | **Level 37** with the overview camera (press C) |
+
 ## Download
 
 Get the latest macOS app (universal: Apple silicon and Intel) from the [Releases page](https://github.com/lydianb79/Glowrunner/releases/latest).
