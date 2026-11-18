@@ -9,10 +9,20 @@
   You're a glowing orb collecting sparks across 99 mazes while four sentinel drones hunt you down.
 </p>
 
+<p align="center">
+  <a href="https://github.com/lydianb79/Glowrunner/releases/latest"><img src="https://img.shields.io/github/v/release/lydianb79/Glowrunner?label=download&color=22d3ee" alt="Latest release"></a>
+  <img src="https://img.shields.io/badge/platform-macOS%20(Apple%20silicon%20%2B%20Intel)-0b1020" alt="Platform: macOS">
+  <img src="https://img.shields.io/badge/Unity-6000.6.9f1-0b1020?logo=unity" alt="Unity 6000.6.9f1">
+</p>
+
+<p align="center">
+  <img src="docs/screenshot.png" alt="Glowrunner gameplay: the orb in the level 1 maze with four sentinels closing in, seen from the overview camera">
+</p>
+
 ## Download
 
 Get the latest macOS app (universal: Apple silicon and Intel) from the [Releases page](https://github.com/lydianb79/Glowrunner/releases/latest).
-Unzip it and double-click **Glowrunner.app**.
+It's a single zip of about 42 MB. Unzip it and double-click **Glowrunner.app**. It needs macOS 12 or later.
 
 The app is not notarized by Apple, so macOS will block it the first time. Right-click it and choose **Open**, or go to
 **System Settings ▸ Privacy & Security** and click **Open Anyway**.
